@@ -23,6 +23,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1400px) {
-
-  
-}
+  .themed-grid-col {
+    background-color: rgba(#cf04beb4);
+    }
+  }
